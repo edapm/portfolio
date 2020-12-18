@@ -33,19 +33,19 @@
                 "icon_class": "fa-dev",
                 "new_window": true
             }
-        ],
+        ]
     },
     "footer": {
         "content": "&copy; Ed Mason. All rights reserved.",
         "links": [
             null,
-           {
+            {
                 "label": "Generated from DEV",
                 "url": "https://dev.to/connecting-with-stackbit",
                 "new_window": true,
                 "style": "link"
             }
-        ],
+        ]
     },
     "palette": "yellow",
     "title": "Edward Mason - Blog"
