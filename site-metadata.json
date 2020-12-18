@@ -1,5 +1,5 @@
 {
-    "description": "A minimal blogging theme for Stackbit",
+    "description": "Ed Mason's blog",
     "header": {
         "title": "Ed Mason",
         "tagline": "I like to code. And mess around with computers.",
@@ -14,16 +14,6 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
                 "style": "link"
             }
         ],
@@ -46,17 +36,11 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=fjord\" target=\"_blank\" rel=\"noopener\">here</a>.",
+        "content": "&copy; Ed Mason. All rights reserved.",
         "links": [
             null,
-            {
-                "label": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
-                "new_window": true,
-                "style": "link"
-            }
         ]
     },
     "palette": "yellow",
-    "title": "Stackbit Fjord Theme"
+    "title": "Edward Mason - Blog"
 }
